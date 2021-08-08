@@ -1,6 +1,6 @@
 {
     "display_title": "hello",
     "short_description" : "this is a really long description that will be requested.",
-    "raw_md" : "# Hello World",
+    "raw_md" : "# Hello World\n## Installation: \n 1. test",
     "repo_url" : null
 }
