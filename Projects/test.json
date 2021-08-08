@@ -1,6 +1,6 @@
 {
-    "display_title": "hello",
+    "display_title": "Project Test",
     "short_description" : "this is a really long description that will be requested.",
     "raw_md" : "# Hello World",
-    "repo_url" : null
+    "repo_url" : "https://github.com/liamdebellada/ada-coding-portal"
 }
