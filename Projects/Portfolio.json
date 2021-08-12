@@ -1,0 +1,7 @@
+{
+    "display_title": "Portfolio",
+	"short_description" : "What you are currently looking at is my portfolio page. I developed this platform using ReactJS through Gatsby with TypeScript. When I was first looking into the best platform choice for this project I had two things in mind: SEO & Reactivity, and thats exactly what Gatsby provides. This was a short but sweet project that I really enjoyed working on.",
+    "raw_md" : "# Hello World",
+    "repo_url" : "https://github.com/liamdebellada/portfolio/",
+	"display_image" : "https://liamdebell.dev/screens/portfolio.png"
+}

@@ -1,7 +1,0 @@
-{
-    "display_title": "Project Test",
-    "short_description" : "this is a really long description that will be requested.",
-    "raw_md" : "# Hello World",
-    "repo_url" : "https://github.com/liamdebellada/ada-coding-portal",
-    "display_image" : "https://camo.githubusercontent.com/271170db7328d7c2209530c7d24ab11ff603833c82bc77612e59e166021d2a6a/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3431313638343134363635303431353130342f3833373435343732393338323539323532322f436f6d706f6e656e745f31342e706e673f77696474683d373534266865696768743d353130"
-}
