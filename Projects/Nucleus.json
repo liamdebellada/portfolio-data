@@ -3,5 +3,6 @@
 	"short_description" : "Ada Nucleus aims to be an easy to use community driven application, where students and staff can create and publish coding challenges for users to complete. Users are encouraged to like and “upvote” other users' posts in order to gain points on their own profiles adding to a local ranking system. The development of this project hopes to show students that coding can be fun, entertaining and meaningful.",
     "raw_md" : "# Hello World",
     "repo_url" : "https://github.com/liamdebellada/ada-coding-portal/",
-	"display_image" : "/collections/nucleus.png"
+	"display_image" : "/collections/nucleus.png",
+	"display_slide" : "/slides/nucleus.png"
 }

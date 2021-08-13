@@ -3,5 +3,6 @@
     "short_description" : "RSN Archive provides a blazing fast image browser for the Royal School of Needlework. The application is written in Rust and Svelte to provide the fastest possible performance available. Working with staff at the Royal School of Needlework, I was able to accurately meet client requirements communicating remotely through emails and video calls.",
     "raw_md" : "# Hello World",
     "repo_url" : "https://github.com/rsnapp/",
-    "display_image" : "/collections/rsnapp.png"
+    "display_image" : "/collections/rsnapp.png",
+	"display_slide" : "/slides/RSNApp.png"
 }
